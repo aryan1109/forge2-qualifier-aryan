@@ -1,0 +1,35 @@
+# Submission Checklist
+
+- [x] Laravel backend directory exists.
+- [x] SQLite database configuration exists.
+- [x] REST API routes exist.
+- [x] Board model exists.
+- [x] ListModel model exists.
+- [x] Card model exists.
+- [x] Board/list/card migrations exist.
+- [x] React + Vite frontend directory exists.
+- [x] Board view exists.
+- [x] Todo column exists.
+- [x] Doing column exists.
+- [x] Done column exists.
+- [x] Create card behavior exists.
+- [x] Edit card title behavior exists.
+- [x] Edit card description behavior exists.
+- [x] Due date field exists.
+- [x] Move card behavior exists.
+- [x] README.md exists.
+- [x] ARCHITECTURE.md exists.
+- [x] agent-log.md exists.
+- [x] skills/status-report/SKILL.md exists.
+- [x] Evidence folder exists.
+- [x] Slack channel screenshot copied into evidence folder.
+- [x] Frontend production build verified locally.
+- [x] Laravel Artisan route registration verified locally.
+- [x] SQLite migrations and seed verified locally.
+- [x] API health and default board verified locally.
+- [x] API create/edit/move card behavior verified locally.
+- [ ] Public GitHub repository created.
+- [ ] Backend deployed to Render.
+- [ ] Frontend deployed to Vercel.
+- [ ] Live deployed URL pasted into README.
+- [ ] Screenshots of deployed Kanban app added.
