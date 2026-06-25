@@ -4,8 +4,10 @@ Minimum viable Forge 2 qualifier submission: a Laravel + SQLite REST API and a R
 
 ## Live URLs
 
-- Frontend: TODO - deploy `frontend/` to Vercel
-- Backend API: TODO - deploy `backend/` to Render
+- Frontend:`https://forge2-qualifier-aryan.vercel.app/`
+- Backend API:`https://forge2-qualifier-aryan.onrender.com/`
+Health Check:
+`https://forge2-qualifier-aryan.onrender.com/api/health`
 
 ## Features
 
@@ -84,8 +86,8 @@ Fast path:
 4. Add environment variables if needed:
    - `APP_ENV=production`
    - `APP_DEBUG=false`
-   - `APP_URL=https://your-render-url`
-   - `FRONTEND_URL=https://your-vercel-url`
+   - APP_URL=`https://forge2-qualifier-aryan.onrender.com`
+FRONTEND_URL=`https://forge2-qualifier-aryan.vercel.app`
 
 ### Vercel Frontend
 
